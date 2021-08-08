@@ -9,7 +9,7 @@ In this project, I will use Tableau to analyze bikeshare data in NYC to convince
 5. In general, the younder riders tend to use the bikes for longer periods of time.
 6. Overall, most riders check out bike for using around 20 min. 
 7. During weekdays, 6:00-9:00am and 5:00-6:00pm are the peak time;During weekends, the busy time is 10:00am -7:00pm.
-[link to Tableau Story](https://public.tableau.com/app/profile/cassie8813/viz/NYCCitiBikeStory_16284466909380/NYCCitiBikeStory?publish=yes)
+ [link to Tableau Story](https://public.tableau.com/app/profile/cassie8813/viz/NYCCitiBikeStory_16284466909380/NYCCitiBikeStory?publish=yes)
 
 ## Summary
 The visualization data shows high activity of the bike sharing service in New York during the Auguest 2019.
