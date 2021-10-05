@@ -15,6 +15,6 @@ In this project, I will use Tableau to analyze bikeshare data in NYC to convince
 The visualization data shows high activity of the bike sharing service in New York during the Auguest 2019.
 Most males riders ride the bike as a commute tool between office and home as a daily route. This implies that Citi Bike services are used as an alternative to the public transportation by commuting workers.
 2 additional visualizations are suggested for future analysis:
-1.Specific bike rental station have the most amount of bike rentals.
-2.The age of the average customer compared to how long they rent a bike.
+- 1.Specific bike rental station have the most amount of bike rentals.
+- 2.The age of the average customer compared to how long they rent a bike.
 
